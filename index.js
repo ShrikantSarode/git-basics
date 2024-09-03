@@ -4,3 +4,4 @@ const dob = "01/01/2014";
 
 console.log(name);
 console.log(age);
+console.log(dob);
