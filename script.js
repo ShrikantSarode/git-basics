@@ -3,5 +3,5 @@ function demo(name) {
 }
 
 
-let arr = ['a', 'b', 'c', 'd', 'e']; \
+let arr = ['a', 'b', 'c', 'd', 'e']; 
 log(arr);
