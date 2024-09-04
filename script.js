@@ -16,3 +16,9 @@ let features2 = () => {
   console.log("This is features E");
   console.log("This is features F");
 };
+
+let features3 = () => {
+  console.log("This is features G");
+  console.log("This is features H");
+  console.log("This is features I");
+};
